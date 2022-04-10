@@ -1,7 +1,6 @@
-		 	Microsoft Azure Quantum Hackathon 
-Aadithya GS, Abishek TL, Prakhar Agrawal, Ghude Sumedh, Jayakar Reddy A 
-
-			      Pulse Programming Quantum Computers
+# Microsoft Azure Quantum Hackathon 
+Aadithya GS, Abishek TL, Prakhar Agrawal, Ghude Sumedh, Jayakar Reddy A
+## Pulse Programming Quantum Computers
 
 A pulse is a time series of complex numbers, with a maximum unit norm. 
 
@@ -10,7 +9,7 @@ Pulse programming is useful because it characterizes quantum devices and impleme
 
 —----------------------------------------------------------------------------------------------------------------------------------------
 
-Quantum Process Tomography 			
+## Quantum Process Tomography 			
 
  Given a state-preparation circuit that prepares a system in a state, reconstructs a description of the density matrix ρ of the actual state obtained in the system.
 We performed tomography on a 3 gate circuit involving, 3 qubits. 
